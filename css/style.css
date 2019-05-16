@@ -1,0 +1,33 @@
+body {
+    padding-top: 100px;
+    padding-left: 450px
+}
+form {
+    text-align: center;
+    background-color: powderblue;
+    color: #564d65;
+    border: 1px solid whitesmoke;
+    width: 400px;
+    height: 500px;
+    font-size: 20px;
+}
+a{
+    text-decoration-line: none;
+}
+button {
+    width: 100px;
+    height: 35px;
+    border-radius: 35px;
+}
+input {
+    width: 200px;
+    height: 20px;
+    border-radius: 35px;
+    
+}
+.radio {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+}
